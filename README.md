@@ -9,9 +9,9 @@ integration with Scan Kit for more advanced generation and management features.
 # Preview
 
 <div>
-  <img src="Screenshots/Screenshot-1.png" width="25%" />
-  <img src="Screenshots/Screenshot-2.png" width="25%" />
-  <img src="Screenshots/Screenshot-3.png" width="25%" />
+  <img src="screenshots/Screenshot-1.png" width="25%" />
+  <img src="screenshots/Screenshot-2.png" width="25%" />
+  <img src="screenshots/Screenshot-3.png" width="25%" />
 </div>
 
 # Use Cases
